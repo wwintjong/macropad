@@ -1331,7 +1331,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00b07a31-9c46-4f6a-aa62-31d2d090658a")
-		(property "Reference" "D31"
+		(property "Reference" "L10"
 			(at 111.76 90.0998 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1401,7 +1401,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D31")
+					(reference "L10")
 					(unit 1)
 				)
 			)
@@ -1419,7 +1419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06341379-dc42-495c-9248-502e490246ef")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR02"
 			(at 63.5 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -1479,7 +1479,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR030")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -1497,7 +1497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17356a7c-b036-4aec-8fe0-8483fdd2e1c2")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR08"
 			(at 64.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1557,7 +1557,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR037")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -1575,7 +1575,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ac9068c-172d-4b37-8584-460f1f4614b7")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR03"
 			(at 63.5 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -1635,7 +1635,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR035")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -1653,7 +1653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23f66ef3-bcb9-4d83-8be2-ccbd9b2c8105")
-		(property "Reference" "D36"
+		(property "Reference" "L15"
 			(at 146.05 116.7698 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1723,7 +1723,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D36")
+					(reference "L15")
 					(unit 1)
 				)
 			)
@@ -1741,7 +1741,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c329d78-7772-4482-914d-0d0098e1f46e")
-		(property "Reference" "D32"
+		(property "Reference" "L11"
 			(at 146.05 90.0998 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1811,7 +1811,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D32")
+					(reference "L11")
 					(unit 1)
 				)
 			)
@@ -1829,7 +1829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41bbe4f5-f4f5-4311-8830-3e91f7d8d213")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR09"
 			(at 64.77 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -1889,7 +1889,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR033")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -1907,7 +1907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44b09501-e7b5-4239-ab37-6f05c6aa57fc")
-		(property "Reference" "D28"
+		(property "Reference" "L7"
 			(at 146.05 62.1598 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1977,7 +1977,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D28")
+					(reference "L7")
 					(unit 1)
 				)
 			)
@@ -1995,7 +1995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44df89dd-efc9-470b-a6af-ebae5dc14b5a")
-		(property "Reference" "D37"
+		(property "Reference" "L16"
 			(at 177.8 116.7698 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2065,7 +2065,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D37")
+					(reference "L16")
 					(unit 1)
 				)
 			)
@@ -2083,7 +2083,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ac7eb21-e6c6-406a-a985-4b0074bee9ba")
-		(property "Reference" "D35"
+		(property "Reference" "L14"
 			(at 111.76 116.7698 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2153,7 +2153,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D35")
+					(reference "L14")
 					(unit 1)
 				)
 			)
@@ -2171,7 +2171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ae865dc-2d44-4541-b756-7ff3f1444ff9")
-		(property "Reference" "D34"
+		(property "Reference" "L13"
 			(at 78.74 116.7698 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2241,7 +2241,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D34")
+					(reference "L13")
 					(unit 1)
 				)
 			)
@@ -2259,7 +2259,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6569f985-a927-4cd0-a27a-186f5eaaa609")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR011"
 			(at 64.77 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -2319,7 +2319,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR038")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -2337,7 +2337,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "791bbdf3-5e9f-4f47-97ff-df6ac6e25fce")
-		(property "Reference" "D24"
+		(property "Reference" "L3"
 			(at 144.78 32.9498 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2407,7 +2407,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D24")
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -2425,7 +2425,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d2b8937-be24-4bdc-8495-e77737d2e879")
-		(property "Reference" "D26"
+		(property "Reference" "L5"
 			(at 78.74 62.1598 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2495,7 +2495,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D26")
+					(reference "L5")
 					(unit 1)
 				)
 			)
@@ -2513,7 +2513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d4a94a9-531c-49ec-bf2b-baa69c72d548")
-		(property "Reference" "D41"
+		(property "Reference" "L20"
 			(at 177.8 142.1698 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2583,7 +2583,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D41")
+					(reference "L20")
 					(unit 1)
 				)
 			)
@@ -2601,7 +2601,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99c8fabc-7d58-4ce8-b758-911410361be6")
-		(property "Reference" "D38"
+		(property "Reference" "L17"
 			(at 78.74 142.1698 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2671,7 +2671,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D38")
+					(reference "L17")
 					(unit 1)
 				)
 			)
@@ -2689,7 +2689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d01c045-e769-45da-a9cc-e5a4af86e6ed")
-		(property "Reference" "D30"
+		(property "Reference" "L9"
 			(at 78.74 90.0998 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2759,7 +2759,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D30")
+					(reference "L9")
 					(unit 1)
 				)
 			)
@@ -2777,7 +2777,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad4314ed-0db5-4c11-b5d3-20f27b024162")
-		(property "Reference" "D40"
+		(property "Reference" "L19"
 			(at 146.05 142.1698 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2847,7 +2847,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D40")
+					(reference "L19")
 					(unit 1)
 				)
 			)
@@ -2865,7 +2865,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0551016-31dd-4ca2-a6d4-ac97f871a941")
-		(property "Reference" "D33"
+		(property "Reference" "L12"
 			(at 177.8 90.0998 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2935,7 +2935,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D33")
+					(reference "L12")
 					(unit 1)
 				)
 			)
@@ -2953,7 +2953,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5baa241-0136-4fa9-96b0-3fb7d773b75c")
-		(property "Reference" "D29"
+		(property "Reference" "L8"
 			(at 177.8 62.1598 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3023,7 +3023,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D29")
+					(reference "L8")
 					(unit 1)
 				)
 			)
@@ -3041,7 +3041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb44d32c-f2f4-43a3-81f2-d570c75c21f0")
-		(property "Reference" "D22"
+		(property "Reference" "L1"
 			(at 77.47 32.9498 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3111,7 +3111,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D22")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -3129,7 +3129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d21bdd1b-5799-42ee-b03b-33864046ca43")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR06"
 			(at 64.77 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3189,7 +3189,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR032")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -3207,7 +3207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db72ba58-1390-41d1-8290-0ad9785adef1")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR015"
 			(at 64.77 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -3267,7 +3267,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR039")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -3285,7 +3285,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df2ad093-cb97-418f-ac8a-549372d0df56")
-		(property "Reference" "D27"
+		(property "Reference" "L6"
 			(at 111.76 62.1598 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3355,7 +3355,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D27")
+					(reference "L6")
 					(unit 1)
 				)
 			)
@@ -3373,7 +3373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e031a099-5fac-447d-9316-e7b245eb2e70")
-		(property "Reference" "D39"
+		(property "Reference" "L18"
 			(at 111.76 142.1698 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3443,7 +3443,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D39")
+					(reference "L18")
 					(unit 1)
 				)
 			)
@@ -3461,7 +3461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3399d90-36f9-4839-931b-e777cacf77bd")
-		(property "Reference" "D23"
+		(property "Reference" "L2"
 			(at 110.49 32.9498 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3531,7 +3531,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D23")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -3549,7 +3549,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5f48bad-9683-4eaa-b852-99bf3689a868")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR014"
 			(at 64.77 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -3609,7 +3609,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR034")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -3627,7 +3627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6a406d1-ec30-43e6-8151-0fc7619bcd42")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR05"
 			(at 64.77 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -3687,7 +3687,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR036")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -3705,7 +3705,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7b1467b-a67d-44ae-8d1b-3cb641f1f9e0")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR04"
 			(at 64.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3765,7 +3765,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "#PWR031")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -3783,7 +3783,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eca4547b-3182-467a-b205-00acc0056280")
-		(property "Reference" "D25"
+		(property "Reference" "L4"
 			(at 176.53 32.9498 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3853,7 +3853,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/407929f7-c7b9-46ed-8d92-9b1cb780af0a"
-					(reference "D25")
+					(reference "L4")
 					(unit 1)
 				)
 			)

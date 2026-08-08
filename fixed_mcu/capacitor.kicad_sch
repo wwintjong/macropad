@@ -907,7 +907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03b9469c-0108-45e1-9541-bbb2cc644cb0")
-		(property "Reference" "C24"
+		(property "Reference" "C7"
 			(at 86.36 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -929,7 +929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 83.5152 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -971,7 +971,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C24")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -989,7 +989,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "069d0bfc-a03c-4e32-ab95-8de2e30b1bc5")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR017"
 			(at 53.34 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -1049,7 +1049,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR046")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -1067,7 +1067,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09ee282c-70e0-4b27-9ba8-5df55f6a3446")
-		(property "Reference" "C18"
+		(property "Reference" "C1"
 			(at 57.15 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1089,7 +1089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 54.3052 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -1131,7 +1131,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C18")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -1149,7 +1149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23225890-ce88-4266-9476-100f68bbb80a")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR013"
 			(at 53.34 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -1209,7 +1209,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR044")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -1227,7 +1227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "311dde3b-774b-420e-bb01-e4f36ed5724e")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR019"
 			(at 53.34 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -1287,7 +1287,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR048")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -1305,7 +1305,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3248fa25-c839-4aa3-88a9-5a31541d7597")
-		(property "Reference" "C27"
+		(property "Reference" "C10"
 			(at 72.39 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1327,7 +1327,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 69.5452 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1369,7 +1369,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C27")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -1387,7 +1387,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a9bf58b-c8c5-4554-a8cc-1637587770e2")
-		(property "Reference" "C33"
+		(property "Reference" "C16"
 			(at 100.33 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1409,7 +1409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 97.4852 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1451,7 +1451,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C33")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -1469,7 +1469,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60e843ac-761d-4a41-8a23-f79691eb7f5f")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR010"
 			(at 53.34 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -1529,7 +1529,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR042")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -1547,7 +1547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66ae0c3e-7244-4b8e-afec-26b257d8dde4")
-		(property "Reference" "C20"
+		(property "Reference" "C3"
 			(at 86.36 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1569,7 +1569,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 83.5152 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -1611,7 +1611,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C20")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -1629,7 +1629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f4fe770-dff4-4de4-9367-f46d2d5fc9e4")
-		(property "Reference" "C29"
+		(property "Reference" "C12"
 			(at 100.33 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1651,7 +1651,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 97.4852 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1693,7 +1693,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C29")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -1711,7 +1711,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e1840e6-0572-49bb-894f-c688c16ef58e")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR016"
 			(at 53.34 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1771,7 +1771,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR045")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -1789,7 +1789,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f0cb922-fbdf-40e4-919e-72678396bc53")
-		(property "Reference" "C19"
+		(property "Reference" "C2"
 			(at 72.39 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1811,7 +1811,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 69.5452 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -1853,7 +1853,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C19")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -1871,7 +1871,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8bfdfda6-7fe3-47a9-9d8c-ee3bc0d99e37")
-		(property "Reference" "C30"
+		(property "Reference" "C13"
 			(at 57.15 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1893,7 +1893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 54.3052 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1935,7 +1935,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C30")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -1953,7 +1953,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8fd6fa5a-e4a8-4ccb-8187-5b92b8a3d827")
-		(property "Reference" "C36"
+		(property "Reference" "C19"
 			(at 86.36 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1975,7 +1975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 83.5152 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -2017,7 +2017,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C36")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -2035,7 +2035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "905e9de3-9d64-4ede-a484-35a51b0bfd0b")
-		(property "Reference" "C23"
+		(property "Reference" "C6"
 			(at 72.39 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2057,7 +2057,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 69.5452 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -2099,7 +2099,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C23")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -2117,7 +2117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2009903-7ef0-45ff-a612-44908c25416e")
-		(property "Reference" "C25"
+		(property "Reference" "C8"
 			(at 100.33 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2139,7 +2139,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 97.4852 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -2181,7 +2181,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C25")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -2199,7 +2199,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a357d677-07c3-467c-baba-5621fa8ba025")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR012"
 			(at 53.34 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -2259,7 +2259,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR043")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -2277,7 +2277,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a742f6dd-d738-4d65-8e90-73e847ff51e4")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR07"
 			(at 53.34 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -2337,7 +2337,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR041")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -2355,7 +2355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b31b6e71-9843-43c3-829a-b143d8119fe0")
-		(property "Reference" "C34"
+		(property "Reference" "C17"
 			(at 57.15 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2377,7 +2377,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 54.3052 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -2419,7 +2419,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C34")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -2437,7 +2437,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b584315a-ffa3-430d-99e0-c4a7934dcd49")
-		(property "Reference" "C26"
+		(property "Reference" "C9"
 			(at 57.15 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2459,7 +2459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 54.3052 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -2501,7 +2501,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C26")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -2519,7 +2519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfd71e10-e4d3-4c06-bef0-850cbbf122c3")
-		(property "Reference" "C21"
+		(property "Reference" "C4"
 			(at 100.33 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2541,7 +2541,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 97.4852 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -2583,7 +2583,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C21")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -2601,7 +2601,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c887051a-c6ec-4951-811a-74c1d73c6c01")
-		(property "Reference" "C22"
+		(property "Reference" "C5"
 			(at 57.15 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2623,7 +2623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 54.3052 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -2665,7 +2665,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C22")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -2683,7 +2683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb2452dc-93da-47c7-a4e5-c21b018a2e2e")
-		(property "Reference" "C31"
+		(property "Reference" "C14"
 			(at 72.39 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2705,7 +2705,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 69.5452 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2747,7 +2747,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C31")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -2765,7 +2765,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc2aa461-9530-4b8d-9f71-139da35ff6d1")
-		(property "Reference" "C32"
+		(property "Reference" "C15"
 			(at 86.36 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2787,7 +2787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 83.5152 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2829,7 +2829,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C32")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -2847,7 +2847,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd49df57-577a-4502-b0c1-77d674876f03")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR020"
 			(at 53.34 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -2907,7 +2907,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR049")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -2925,7 +2925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdce0801-22ee-4902-8ff9-c72652a9fa6c")
-		(property "Reference" "C37"
+		(property "Reference" "C20"
 			(at 100.33 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2947,7 +2947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 97.4852 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -2989,7 +2989,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C37")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -3007,7 +3007,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce735b43-0bd8-4927-bdc3-a7c051961a04")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR01"
 			(at 53.34 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -3067,7 +3067,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR040")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -3085,7 +3085,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e10e61bc-4822-4e6b-a9cc-4710ce911f35")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR018"
 			(at 53.34 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -3145,7 +3145,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "#PWR047")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -3163,7 +3163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2e65d9f-dcd1-42dc-89c3-319525e6a160")
-		(property "Reference" "C35"
+		(property "Reference" "C18"
 			(at 72.39 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3185,7 +3185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 69.5452 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -3227,7 +3227,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C35")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -3245,7 +3245,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe5e5896-7a3c-4019-ba27-8ab560603695")
-		(property "Reference" "C28"
+		(property "Reference" "C11"
 			(at 86.36 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3267,7 +3267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 83.5152 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -3309,7 +3309,7 @@
 		(instances
 			(project "macropad"
 				(path "/8e02e2e1-0c79-4801-9d9a-9c6e556a8844/806cca60-2dff-44f8-a29b-a475b907fd1f"
-					(reference "C28")
+					(reference "C11")
 					(unit 1)
 				)
 			)
