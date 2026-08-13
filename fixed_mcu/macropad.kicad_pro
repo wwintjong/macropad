@@ -70,24 +70,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "hole_clearance|78650000|50855000|353ce6d8-de2e-4115-9b0d-967c12d3d210|9ac7d003-7de4-48fb-95cc-d13754280829",
-          ""
-        ],
-        [
-          "hole_clearance|78650000|50855000|b326913b-16c8-4004-953b-c1f84c3da41b|9ac7d003-7de4-48fb-95cc-d13754280829",
-          ""
-        ],
-        [
-          "hole_clearance|84750000|50855000|480c4c7b-1811-499f-a794-e4741392aa5f|ea5d591b-e435-4011-9323-dbee4d433fac",
-          ""
-        ],
-        [
-          "hole_clearance|84750000|50855000|d1426522-fff9-4b44-a8e0-542fae36f7b8|ea5d591b-e435-4011-9323-dbee4d433fac",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -110,6 +93,7 @@
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
+        "hole_near_hole": "error",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",
@@ -530,39 +514,50 @@
         "wire_width": 6
       },
       {
+        "bus_width": 12,
         "clearance": 0.15,
         "diff_pair_gap": 0.127,
+        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.191,
+        "line_style": 0,
         "microvia_diameter": 0.0,
         "microvia_drill": 0.0,
         "name": "+3V3",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 4,
+        "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
         "tuning_profile": "",
         "via_diameter": 0.6,
-        "via_drill": 0.3
+        "via_drill": 0.3,
+        "wire_width": 6
       },
       {
+        "bus_width": 12,
         "clearance": 0.15,
         "diff_pair_gap": 0.127,
+        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.191,
+        "line_style": 0,
         "microvia_diameter": 0.0,
         "microvia_drill": 0.0,
         "name": "+5V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 3,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
         "tuning_profile": "",
         "via_diameter": 0.6,
-        "via_drill": 0.3
+        "via_drill": 0.3,
+        "wire_width": 6
       },
       {
+        "bus_width": 12,
         "clearance": 0.25,
         "diff_pair_gap": 0.191,
+        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.127,
+        "line_style": 0,
         "microvia_diameter": 0.0,
         "microvia_drill": 0.0,
         "name": "GND",
@@ -572,37 +567,46 @@
         "track_width": 0.3,
         "tuning_profile": "",
         "via_diameter": 0.6,
-        "via_drill": 0.3
+        "via_drill": 0.3,
+        "wire_width": 6
       },
       {
+        "bus_width": 12,
         "clearance": 0.25,
         "diff_pair_gap": 0.254,
+        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.191,
+        "line_style": 0,
         "microvia_diameter": 0.0,
         "microvia_drill": 0.0,
         "name": "SPI",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
         "tuning_profile": "",
         "via_diameter": 0.45,
-        "via_drill": 0.3
+        "via_drill": 0.3,
+        "wire_width": 6
       },
       {
+        "bus_width": 12,
         "clearance": 0.15,
         "diff_pair_gap": 0.191,
+        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.127,
+        "line_style": 0,
         "microvia_diameter": 0.0,
         "microvia_drill": 0.0,
         "name": "UART",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
         "tuning_profile": "",
         "via_diameter": 0.45,
-        "via_drill": 0.3
+        "via_drill": 0.3,
+        "wire_width": 6
       }
     ],
     "meta": {
